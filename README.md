@@ -4,6 +4,9 @@
 [![codecov](https://codecov.io/gh/BSGDev/BSG-Admin/branch/master/graph/badge.svg)](https://codecov.io/gh/BSGDev/BSG-Admin)
 ![](https://img.shields.io/codecov/c/gh/.svg)
 
+![](https://img.shields.io/github/release/BSGDev/BSG-Admin.svg)
+![](https://img.shields.io/github/commits-since/BSGDev/BSG-Admin/latest.svg)
+
 [Who uses ngx-admin?](https://github.com/akveo/ngx-admin/issues/1645)| [Documentation](https://akveo.github.io/ngx-admin/?utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes) | [Installation Guidelines](https://akveo.github.io/ngx-admin/docs/getting-started/what-is-ngxadmin?utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes)
 
 # Admin template based on Angular 7+, Bootstrap 4 and <a href="https://github.com/akveo/nebular">Nebular</a>
