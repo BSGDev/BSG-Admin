@@ -26,12 +26,17 @@ before_install:
 
 install:
   - travis_retry npm i
+  - npm install -g codecov
 
 before_script:
 
 script:
   - npm run lint:ci
   - npm run build:prod
+  - istanbul cover ./node_modules/jasmine/bin/jasmine.js
+  - codecov
 
 git:
   depth: 1
+
+CODECOV_TOKEN="7095258c-98e1-411c-8ce1-86513f420175"

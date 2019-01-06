@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/akveo/ngx-admin.svg?branch=master)](https://travis-ci.org/akveo/ngx-admin)
-[![Join the chat at https://gitter.im/ng2-admin/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ng2-admin/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Dependency Status](https://david-dm.org/akveo/ngx-admin/status.svg)](https://david-dm.org/akveo/ng2-admin)
+[![Build Status](https://travis-ci.org/BSGDev/BSG-Admin.svg?branch=master)](https://travis-ci.org/BSGDev/BSG-Admin)
+[![Dependency Status](https://david-dm.org/BSGDev/bsg-admin/status.svg)](https://david-dm.org/BSGDev/bsg-admin)
+![](https://img.shields.io/github/repo-size/badges/shields.svg)
 
 [Who uses ngx-admin?](https://github.com/akveo/ngx-admin/issues/1645)| [Documentation](https://akveo.github.io/ngx-admin/?utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes) | [Installation Guidelines](https://akveo.github.io/ngx-admin/docs/getting-started/what-is-ngxadmin?utm_source=github&utm_medium=ngx_admin_readme&utm_campaign=themes)
 
@@ -65,7 +65,7 @@ This project runs its tests on multiple desktop and mobile browsers using [Brows
 - Follow us on [Twitter](https://twitter.com/akveo_inc) :feet:
 - Like our page on [Facebook](https://www.facebook.com/akveo/) :thumbsup:
 
-### Looking for engineering services? 
+### Looking for engineering services?
 Visit [our homepage](http://akveo.com/) or simply leave us a message to [contact@akveo.com](mailto:contact@akveo.com). We will be happy to work with you!
 
 ### From Developers
