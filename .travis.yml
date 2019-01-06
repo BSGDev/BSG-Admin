@@ -38,5 +38,3 @@ script:
 
 git:
   depth: 1
-
-CODECOV_TOKEN="7095258c-98e1-411c-8ce1-86513f420175"
